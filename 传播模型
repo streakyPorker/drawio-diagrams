@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T15:48:30.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="fhiiRFDYBee--wD3aBCS" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T15:53:26.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="3H8e0hIj9576P6etb1Fu" version="18.0.0" type="github">
   <diagram id="q-6YFt2kn62a2KlFb-Pc" name="Page-1">
-    <mxGraphModel dx="677" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="359" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,9 +33,6 @@
         <mxCell id="QVSmqhshwwMzm_6EiR5N-3" value="R" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="510" y="280" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QVSmqhshwwMzm_6EiR5N-8" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;S:Susceptable&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; I:Infected&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; R:Recovery&lt;/font&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350" width="520" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="QVSmqhshwwMzm_6EiR5N-12" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="439" y="250" as="sourcePoint" />
@@ -63,6 +60,15 @@
         </mxCell>
         <mxCell id="QVSmqhshwwMzm_6EiR5N-19" value="SIR" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="490" y="180" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSmqhshwwMzm_6EiR5N-20" value="S:Susceptable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="209" y="352" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSmqhshwwMzm_6EiR5N-21" value="I:Infected" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="310" y="352" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSmqhshwwMzm_6EiR5N-23" value="R:Recovery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="414" y="353" width="67" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
