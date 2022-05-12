@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T13:37:45.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="c9_9-bNCgWKatCETP1Tq" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T13:37:57.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="JtqCjetrlA80v2MiGV3G" version="18.0.3" type="github">
   <diagram id="UzLNnCSpyNCtRl-beyy4" name="Page-1">
-    <mxGraphModel dx="2074" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2078" dy="1117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,9 +127,6 @@
         </mxCell>
         <mxCell id="nCYbbM5J5iTv4SYyO_7w-54" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="170" width="770" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="nCYbbM5J5iTv4SYyO_7w-55" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nCYbbM5J5iTv4SYyO_7w-61" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="435" y="370" width="60" height="60" as="geometry" />
@@ -265,9 +262,6 @@
         </mxCell>
         <mxCell id="nCYbbM5J5iTv4SYyO_7w-125" value="&lt;h2&gt;A CRGCN block of subgraph G&lt;sub&gt;i&lt;/sub&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="374" y="120" width="260" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="nCYbbM5J5iTv4SYyO_7w-127" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nCYbbM5J5iTv4SYyO_7w-142" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;endArrow=classic;endFill=1;" edge="1" parent="1" source="nCYbbM5J5iTv4SYyO_7w-129" target="nCYbbM5J5iTv4SYyO_7w-139">
           <mxGeometry relative="1" as="geometry" />
