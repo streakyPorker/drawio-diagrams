@@ -1,23 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T12:05:27.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="FyDyJhP0rdVTPtsc_KQf" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T12:40:15.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="IbFsY2ftN93ZA5Q-oOE2" version="20.5.1" type="github">
   <diagram id="oHDEXTidKxtVseHbod5Z" name="第 1 页">
-    <mxGraphModel dx="1038" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gY6AXrlvOhKUXxEa8DJa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="160" width="350" height="130" as="geometry" />
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-38" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gY6AXrlvOhKUXxEa8DJa-2" value="人民代表大会" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="260" y="210" width="120" height="30" as="geometry" />
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-35" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="gY6AXrlvOhKUXxEa8DJa-3" value="多党协作与政治协商" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="410" y="210" width="120" height="30" as="geometry" />
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gY6AXrlvOhKUXxEa8DJa-4" value="群众自治" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="420" y="340" width="120" height="30" as="geometry" />
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-19" value="选举" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-2" target="gY6AXrlvOhKUXxEa8DJa-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gY6AXrlvOhKUXxEa8DJa-5" value="民族区域自治" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="120" height="30" as="geometry" />
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-2" value="全国人民代表大会" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-12" value="管理" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-5" target="gY6AXrlvOhKUXxEa8DJa-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-25" value="管理" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-5" target="gY6AXrlvOhKUXxEa8DJa-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-5" value="中共中央政治局&lt;br&gt;（核心领导班子）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#CC0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-10" value="军队委员会等直辖机构" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-28" value="管理" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-15" target="gY6AXrlvOhKUXxEa8DJa-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-15" value="全国政协" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-41" value="管理" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-16" target="gY6AXrlvOhKUXxEa8DJa-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-16" value="国务院" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-46" value="管理" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-17" target="gY6AXrlvOhKUXxEa8DJa-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-17" value="最高人民法院/检察院" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-20" value="选举、决议" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-2" target="gY6AXrlvOhKUXxEa8DJa-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="240" as="sourcePoint" />
+            <mxPoint x="500" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-50" value="选举" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-26" target="gY6AXrlvOhKUXxEa8DJa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-26" value="省级人大" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-33" value="管理" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-29" target="gY6AXrlvOhKUXxEa8DJa-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-29" value="省级政协" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-49" value="选举" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-31" target="gY6AXrlvOhKUXxEa8DJa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-31" value="县乡级人大" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-32" value="县乡级政协" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-36" value="&lt;b&gt;立法机构&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-37" value="&lt;b&gt;执法机构&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-39" value="&lt;b&gt;司法机构&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="710" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-42" value="管理" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-40" target="gY6AXrlvOhKUXxEa8DJa-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="369.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-40" value="国务院" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-43" value="国务院" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-44" value="最高人民法院/检察院" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="640" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-47" value="管理" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="gY6AXrlvOhKUXxEa8DJa-45" target="gY6AXrlvOhKUXxEa8DJa-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gY6AXrlvOhKUXxEa8DJa-45" value="最高人民法院/检察院" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
